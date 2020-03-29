@@ -48,7 +48,7 @@ public class NButton {
 		marker.fill(255, 0, 33);
 		marker.strokeWeight(10);
 		marker.rect(x, y, length, width);
-		marker.strokeWeight(2);
+		marker.strokeWeight(1);
 		
 
 		
